@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGregTanaka&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGregTanaka&layout=compact&theme=dark&count_private=true)
 ![@TheGregTanaka](https://github-readme-stats.vercel.app/api?username=TheGregTanaka&show_icons=true&count_private=true&theme=dark)
